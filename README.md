@@ -1,4 +1,4 @@
-# Dr.Angela-Yu-100Days-Python-Projects
+# 1-Python-Project-Everyday
 Taking on a learning challenge can be a rewarding experience, and I am excited to embark on the journey of following Dr. Angela Yu's 100 Days of Python Udemy course. This course is designed to help learners build a strong foundation in Python programming and advance their skills by creating Python projects on a daily basis.
 
 Through this course, I will be learning about various Python concepts such as data types, functions, loops, and classes, and applying them to build projects that range from simple programs to complex applications. By committing to building a Python project every day, I will be able to solidify my understanding of the language and gain hands-on experience in developing real-world solutions.
