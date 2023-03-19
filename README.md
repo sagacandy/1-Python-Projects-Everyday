@@ -10,9 +10,10 @@ Overall, I am excited to take on this challenge and look forward to the new skil
 
 ## Project List
 
-| Days | Project Name                                                                                           |
-| ---- | ------------------------------------------------------------------------------------------------------ |
-| Day1 | Band Name Generator                                                                                    |
-| Day2 | Tip Calculator                                                                                         |
-| Day3 | Treasure Path                                                                                          |
-| Day4 | Project1 [Head & Tail]<br>Project2 [Roulette Who will pay the bill]<br>Project3 [Rock, Paper, Scissor] |
+| Days | Project Name                                                                                                                                                               |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Day1 | Band Name Generator                                                                                                                                                        |
+| Day2 | Tip Calculator                                                                                                                                                             |
+| Day3 | Treasure Path                                                                                                                                                              |
+| Day4 | Project4a [Head & Tail]<br>Project4b [Roulette Who will pay the bill]<br>Project4c [Rock, Paper, Scissor]                                                                  |
+| Day5 | Project5a [Average Height]<br>Project5b [Find highest number]<br>Project5c [Adding Even numbers upto 100]<br>Project5d [FizzBuzz Game]<br>Project5e [PyPassword Generator] |
