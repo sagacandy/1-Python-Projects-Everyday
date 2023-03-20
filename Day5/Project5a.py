@@ -1,4 +1,4 @@
-# Project 1 of Day 4
+# Project a of Day 5
 # we are finding the average height of students without using sum() and len() function and understanding how those functions work at under the hood.
 student_heights = input("Input a list of student heights ").split()
 for n in range(0, len(student_heights)):
