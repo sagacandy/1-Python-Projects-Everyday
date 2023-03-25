@@ -17,3 +17,5 @@ Overall, I am excited to take on this challenge and look forward to the new skil
 | Day3 | Treasure Path                                                                                                                                                              |
 | Day4 | Project4a [Head & Tail]<br>Project4b [Roulette Who will pay the bill]<br>Project4c [Rock, Paper, Scissor]                                                                  |
 | Day5 | Project5a [Average Height]<br>Project5b [Find highest number]<br>Project5c [Adding Even numbers upto 100]<br>Project5d [FizzBuzz Game]<br>Project5e [PyPassword Generator] |
+|  |
+| Day6 | Hangman (Guess Word Game)                                                                                                                                                  |
