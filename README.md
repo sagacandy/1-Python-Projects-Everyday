@@ -20,3 +20,4 @@ Overall, I am excited to take on this challenge and look forward to the new skil
 |      |
 | Day6 | Hangman (Guess Word Game)                                                                                                                                                  |
 | Day7 | Caesar Cipher Encoder Decoder                                                                                                                                              |
+| Day7 | Secret Auction                                                                                                                                                             |
